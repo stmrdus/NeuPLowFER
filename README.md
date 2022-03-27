@@ -30,6 +30,8 @@ Nhut-Nam Le - [@Namlee298](https://twitter.com/Namlee298) - lenam.fithcmus@gmail
 
 Project Link: [https://github.com/nhutnamhcmus/NeuPLowFER](https://github.com/nhutnamhcmus/NeuPLowFER)
 
+This project build upon LowFER project: [https://github.com/suamin/LowFER](https://github.com/suamin/LowFER)
+
 ## Acknowledgements 
 
 This research is funded by the University of Science, VNU-HCM, Vietnam under grant number CNTT 2022-2 and Advanced Program in Computer Science.
